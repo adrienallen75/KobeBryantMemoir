@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+  
+ </head>
+<body>
+  <div id="container">
+    <div id="header">
+  </div>
+     <div id="quote-1">
+            <p id="text"><span> I can't relate to lazy people. We don't speak the same language. I don't understand you. I don't want to understand you.</span><br> 
+                
+       </p></div>
+    
+    <iframe width="420" height="315"
+src="https://www.youtube.com/embed/OTTWedyp37o?autoplay=1">
+</iframe>
+    
+    
+ 
+            <div id="content">
+                
+                <div class="subsection-header" id="bio-header"> 
+                  
+                  TIMELINE
+
+  
+              </div>
+              
+              <div id = "main-content">
+                
+                <div class = "eventdate">Aug. 23, 1978</div>
+                
+                <div class="event-desc eventdate-event1a">Kobe Bean Bryant was born in Philadelphia</div>
+                
+                
+ <div class = "eventdate">1996 </div>
+        
+  <div class="event-desc eventdate-event1a">Bryant finishes his high school career as the all-time leading scorer in the history of southeastern Pennsylvania basketball. He leads the Lower Merion Aces to a record of 31-3 and the Class-AAAA state championship. USA Today names him the National High School Player of the Year and he wins the Naismith Player of the Year.</div>
+
+ 
+ <div class = "eventdate">June 26, 1996</div>
+               
+   <div class="event-desc eventdate-event1a">Bryant, 17, is selected by the Charlotte Hornets as the 13th pick in the first round of the NBA draft. The Hornets agree to trade his draft rights to the Lakers in exchange for center Vlade Divac.</div>  
+                
+ <div class = "eventdate">1996-1997</div>
+                   <div class="event-desc eventdate-event1a">Bryant, 17, is selected by the Charlotte Hornets as the 13th pick in the first round of the NBA draft. The Hornets agree to trade his draft rights to the Lakers in exchange for center Vlade Divac.</div> 
+                
+                       <div class = "eventdate">1999-2000 </div>
+
+                <div class="event-desc eventdate-event1a">With Phil Jackson as his coach, and Hall of Fame center Shaquille O’Neal as his teammate, Bryant wins his first NBA title as the Lakers beat the Indiana Pacers in six games.</div>
+          
+             <div class = "eventdate">Feb. 2002 </div>
+               
+   <div class="event-desc eventdate-event1a">He is named All-Star Game MVP for the first time. He also won the honor in 2007, 2009 and 2011.</div>  
+                
+                 <div class = "eventdate">June 2004 </div>
+               
+   <div class="event-desc eventdate-event1a">Playing in their fourth Finals in five years, the last Kobe-Shaq Lakers team loses to Detroit in five games. That summer O’Neal is traded to Miami and Bryant, a free agent, considers signing with the Clippers but ultimately returns to the Lakers after agreeing to a seven-year, $136-million contract.</div>  
+                
+                
+   <div class = "eventdate">Jan. 22, 2006</div>
+               
+   <div class="event-desc eventdate-event1a">Bryant scores 81 points in the Lakers’ 122-104 victory over Toronto. Only Wilt Chamberlain’s 100-point game in 1962 tops this performance. … Bryant leads the league in scoring (35.4 ppg) as Phil Jackson returns to coach the team. The Lakers lose a first-round playoff series to the Phoenix Suns.</div>  
+         
+                 <div class = "eventdate">2007-08 </div>
+               
+   <div class="event-desc eventdate-event1a">A midseason trade for Pau Gasol turns the Lakers into a title contender. Bryant wins his only regular-season MVP award after averaging 28.3 points, 6.3 rebounds, 5.4 assists and 1.8 steals per game. The Lakers reach the Finals but lose to Boston in six games.</div>  
+                
+                 <div class = "eventdate">June 14, 2009</div>
+               
+   <div class="event-desc eventdate-event1a">Bryant wins his fourth NBA title and is named the Finals MVP as the Lakers beat the Orlando Magic in five games.</div>  
+                
+                
+                 
+ <div class = "eventdate">June 17, 2010</div>
+               
+   <div class="event-desc eventdate-event1a">Bryant wins his fifth NBA title and is named the Finals MVP as the Lakers beat the Celtics in seven games. He signs a three-year, $84-million contract extension to remain with the team through the 2013-14 season.</div>  
+
+                 <div class = "eventdate">November 2013 </div>
+               
+   <div class="event-desc eventdate-event1a">Bryant, 35 and still recovering from what for many athletes is a career-ending injury, signs a two-year contract extension worth $48.5 million that runs through the 2015-16 season.</div>  
+                
+          <div class = "eventdate">April 13, 2016 </div>
+               
+   <div class="event-desc eventdate-event1a">He scores 60 points in his final game, helping the Lakers defeat the Utah Jazz 101-96.</div>  
+                
+                 <div class = "eventdate">Dec. 18, 2017</div>
+               
+   <div class="event-desc eventdate-event1a">The Lakers retire both of Bryant’s jersey numbers, No. 8 and No. 24, during a halftime ceremony.</div>  
+                
+                
+                <div class = "eventdate">Jan. 26, 2020</div>
+               
+   <div class="event-desc eventdate-event1a">Kobe, 41, is among nine people who die in a helicopter crash in Calabasas. One of his daughters, 13-year-old Gianna “Gigi” Bryant, was among those to perish in the crash as well.</div>  
+           <div id="side-content">
+                
+                    <table class="info">      
+                
+                <tbody>
+    <tr>
+        <th  colspan="2" id="nutshell"> IN A NUTSHELL
+            <img id="second-image" src="https://i.insider.com/5e2e01f162fa81077323cea3?width=1900&format=jpeg&auto=webp" /></th>
+    </tr>
+    <tr>
+    <th> 
+        Born
+    </th>	
+      
+        <td>Kobe Bean Bryant<br>
+    August 23, 1978<br>
+Philadelphia, Pennsylvania
+          
+              </td>
+    </tr>
+    <tr>
+    <th>
+        Died</th>
+    <td>
+        	January 26, 2020 (aged 41)<br>
+Calabasas, California</td></tr>
+    <tr>
+    <th> High School</th>
+    <td>Lower Merion
+(Ardmore, Pennsylvania)<br>
+      </td></tr>
+
+      <th>NBA Draft</th>
+    <td>	
+      1996 / Round: 1 / Pick: 13th overall
+Selected by the Charlotte Hornets<br>
+      
+</td></tr>
+             
+    <tr>
+    <th>Playing Career</th>
+    <td>1996-2016<br>
+</td></tr>
+    <tr>
+    <th> Cause of <br> death</th>
+    <td> Helicopter crash<br> </td></tr>
+</tbody>
+
+</body>
+
+</html>
